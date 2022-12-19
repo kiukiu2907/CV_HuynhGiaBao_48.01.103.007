@@ -1,5 +1,4 @@
-# CV_HuynhGiaBao_48.01.103.007
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta http-equiv="Content-Type" content="text/html;
